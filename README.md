@@ -6,9 +6,9 @@ Operating system(s): Ubuntu 20.04 and 22.04.
 
 Programming language used: Bash 
 
-Important: Check bash in your linux using the command: which bash
+Important: Check bash in your linux using the command:     which bash
            
-                                       Desired output: /usr/bin/bash
+Desired output:                                            /usr/bin/bash
 
 Other requirements: Java 11, Python3, GLIBC 2.28 or higher.
 
