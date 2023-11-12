@@ -1,7 +1,7 @@
 # WEAP: Whole Exome Analysis Pipeline
 
 
-Operating system(s): Ubuntu 18.04 or higher.
+Operating system(s): Ubuntu 18.04, 20.04 and 22.04.
 
 
 Programming language: Bash.
