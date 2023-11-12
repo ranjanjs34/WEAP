@@ -10,6 +10,7 @@ Programming language used: Bash
 Other requirements: Java 1.3.1 or higher, Python3, GLIBC 2.28 or higher.
 
 Executable Binaries are converted from bash using Shell Script Compiler (SHC). 
+
 Developer: Ranjan Jyoti Sarma
 
 ## 1.Downloading WEAP
