@@ -6,8 +6,11 @@ Operating system(s): Ubuntu 20.04 and 22.04.
 
 Programming language used: Bash 
 
+Important: Check bash in your linux using the command: which bash
+           
+                                       Desired output: /usr/bin/bash
 
-Other requirements: Java 1.3.1 or higher, Python3, GLIBC 2.28 or higher.
+Other requirements: Java 11, Python3, GLIBC 2.28 or higher.
 
 Executable Binaries are converted from bash using Shell Script Compiler (SHC). 
 
