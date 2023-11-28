@@ -77,7 +77,7 @@ There should not be any ‘/’ at the end of the directory address.
 
 
 
-This Script will automatically download and install the required tools add to path so that WEAP can recognize the internal commands. As ANNOVAR cannot be distributed, users need to download the ANNOVAR from the ANNOVAR website after registration. Please download the ANNOVAR from https://www.openbioinformatics.org/annovar/annovar_download_form.php manually by registering, unzip  and keep  it in Tool directory as 'annovar'.
+This Script will automatically download and install the required tools and will add to the path so that WEAP can recognize the internal commands. As ANNOVAR cannot be distributed, users need to download the ANNOVAR from the ANNOVAR website after registration. Please download the ANNOVAR from https://www.openbioinformatics.org/annovar/annovar_download_form.php manually by registering, unzip  and keep  it in Tool directory as 'annovar'.
 
 
 
